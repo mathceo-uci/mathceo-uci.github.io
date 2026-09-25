@@ -529,7 +529,7 @@ var ptx_lunr_docs = [
   "type": "Activity",
   "number": "2.2",
   "title": "More Units (10 min)",
-  "body": " More Units (10 min)    Checklist   Optional activity.  Opportunity for creativity from students.    This is an optional activity if you still have time in which students create new body poses corresponding to certain measures. Have students work on the Student Workbook page for . You can have them work together.  Make sure that the body poses that students invent are easy to replicate, and that they can also describe them in their own words.  For 4 ha'ilima, students may actually discover the anana (wingspan!). For 3 ha'ilima, students may discover the muku, or you may also introduce it!    A spread hand illustrating the muku unit (arm from fingertips to opposite elbow, equal to 3 ha'ilima)    A raised palm illustrating the anana unit (full wingspan, equal to 2 iwilei or 4 ha'ilima).    You can also talk about the pī'ā.   Two hand poses: pī'ā (hand with fingers together, palm facing out) and poho (open palm).     Use your body!     Come up with a body measure — pose (describe it, draw it, and show it) equivalent to:  It's ok to get close equivalences!    Fifteen numbered sketch figures showing various body poses for reference when creating new body measurements.        ha'ilima      ha'ilima        kīko'o      2\/5 ha'ilima        iwilei        "
+  "body": " More Units (10 min)    Checklist   Optional activity.  Opportunity for creativity from students.    This is an optional activity if you still have time in which students create new body poses corresponding to certain measures. Have students work on the Student Workbook page for . You can have them work together.  Make sure that the body poses that students invent are easy to replicate, and that they can also describe them in their own words.  For 4 ha'ilima, students may actually discover the anana (wingspan!). For 3 ha'ilima, students may discover the muku, or you may also introduce it!    A spread hand illustrating the muku unit (arm from fingertips to opposite elbow, equal to 3 ha'ilima)    A raised palm illustrating the anana unit (full wingspan, equal to 2 iwilei or 4 ha'ilima).    You can also talk about the pī'ā.   Two hand poses: pī'ā (hand with fingers together, palm facing out) and poho (open palm).     Use your body!     Come up with a body measure — pose (describe it, draw it, and show it) equivalent to:  It's ok to get close equivalencies!    Fifteen numbered sketch figures showing various body poses for reference when creating new body measurements.        ha'ilima      ha'ilima        kīko'o      2\/5 ha'ilima        iwilei        "
 },
 {
   "id": "sec-more-units-2-2",
@@ -574,7 +574,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet",
   "number": "2.2.1",
   "title": "Use your body!",
-  "body": " Use your body!     Come up with a body measure — pose (describe it, draw it, and show it) equivalent to:  It's ok to get close equivalences!    Fifteen numbered sketch figures showing various body poses for reference when creating new body measurements.        ha'ilima      ha'ilima        kīko'o      2\/5 ha'ilima        iwilei       "
+  "body": " Use your body!     Come up with a body measure — pose (describe it, draw it, and show it) equivalent to:  It's ok to get close equivalencies!    Fifteen numbered sketch figures showing various body poses for reference when creating new body measurements.        ha'ilima      ha'ilima        kīko'o      2\/5 ha'ilima        iwilei       "
 },
 {
   "id": "sec-pele",

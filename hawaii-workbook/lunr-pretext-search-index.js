@@ -385,7 +385,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet",
   "number": "2.2",
   "title": "Use your body!",
-  "body": " Use your body!     Come up with a body measure — pose (describe it, draw it, and show it) equivalent to:  It's ok to get close equivalences!    Fifteen numbered sketch figures showing various body poses for reference when creating new body measurements.        ha'ilima      ha'ilima        kīko'o      2\/5 ha'ilima        iwilei       "
+  "body": " Use your body!     Come up with a body measure — pose (describe it, draw it, and show it) equivalent to:  It's ok to get close equivalencies!    Fifteen numbered sketch figures showing various body poses for reference when creating new body measurements.        ha'ilima      ha'ilima        kīko'o      2\/5 ha'ilima        iwilei       "
 },
 {
   "id": "hawaii-ws-moreUnits-2-1-1-1",
@@ -403,7 +403,7 @@ var ptx_lunr_docs = [
   "type": "Paragraph",
   "number": "",
   "title": "",
-  "body": "It's ok to get close equivalences! "
+  "body": "It's ok to get close equivalencies! "
 },
 {
   "id": "hawaii-ws-moreUnits-2-2-1-1",

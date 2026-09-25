@@ -369,8 +369,9 @@
 % Can't be fixed here; the workspace has to sit on the page to grow.
 %
 % Marks are read on the pass after they are written, so boxes are absent
-% on the first LaTeX run and correct from the second. latexmk runs enough
-% passes by itself, and \iftikzmark keeps run one from erroring.
+% on the first LaTeX run and correct from the second. Run pdflatex 3 times
+% (or use latexmk -g if Perl is installed); \iftikzmark keeps run one from
+% erroring.
 %
 % \nobreak stops LaTeX breaking the page at the \vfill, which would leave
 % the two marks on different pages and draw a rectangle between them.
